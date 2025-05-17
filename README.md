@@ -2,7 +2,7 @@
 HKUST Forum is a mobile application designed for students of the Hong Kong University of Science and Technology (HKUST) to share, discuss, and interact through campus-related posts. The app features a category-based forum, post creation, like functionality, and real-time search and filtering.
 ![Home Page](screenshots/home.png)
 ![Discover Page](screenshots/discover.png)
-![Create Post](screenshots/create.png)
+![Create Post](screenshots/create.png)<br>
 Built with:
 
 Android using Kotlin & Jetpack Compose
